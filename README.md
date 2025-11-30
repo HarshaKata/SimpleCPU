@@ -314,7 +314,7 @@ Each instruction follows a standard Fetch-Decode-Execute cycle:
 ### Option 1: From Git Repository (if available)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SimpleCPU.git
+git clone https://github.com/harshakata/SimpleCPU.git
 cd SimpleCPU
 ```
 
